@@ -47,7 +47,7 @@
     "validate-npm-package-name": "^3.0.0"
   },
   "devDependencies": {
-    "@types/cross-spawn": "^6.0.1",
+    "@types/cross-spawn": "6.0.1",
     "@types/fs-extra": "^8.0.0",
     "@types/inquirer": "^6.5.0",
     "@types/jsesc": "^2.5.0",
